@@ -3,6 +3,8 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>disable</Nullable>
+    <RepositoryUrl>https://github.com/meegasmullage/Hephaestus.Infrastructure.Identity</RepositoryUrl>
+    <PackageDescription>A simple, lightweight .NET library for the automatic caching and renewal of Azure access tokens.</PackageDescription>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Azure.Identity" Version="1.12.0" />
