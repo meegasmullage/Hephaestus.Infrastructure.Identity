@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Hephaestus.Infrastructure.Identity.Sandbox": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AZURE_TENANT_ID": "???"
+      }
+    }
+  }
+}
